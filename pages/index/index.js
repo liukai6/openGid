@@ -8,7 +8,7 @@ Page({
 
   data: {
     
-    weburl: 'https://www.wishstart.com/xiaochengxu/index.html'
+    weburl: ''
   },
  
   onLoad() {
